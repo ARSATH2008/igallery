@@ -47,7 +47,7 @@ Publish the website in the given URL.
     </div>
 
     <div class="footer-banner">
-       Desinged & Developed by SAHANA G - 25018306 &copy;
+       Desinged & Developed by MOHAMED ARSATH - 25000358 &copy;
     </div>
 
     <script src="index.js"></script>
